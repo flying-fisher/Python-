@@ -1,0 +1,9 @@
+用python重写了C语言经典100例对于学习过c语言的朋友可能知道这个C语言经典100例，这里堪称是python经典100例，学习python的朋友可以参考下。
+
+ps：作者的所有文件都是GB2312格式的，但JCP077.py例外，这个文件中两种编码格式 都有，而且在文件头上加了BOM, 所以这个文件只能手动转了，万恶的windows啊。
+
+红黑联盟：www.2cto.com
+
+电子书频道：http://www.2cto.com/ebook/
+
+网址：http://www.2cto.com/ebook/201607/65229.html
